@@ -8,7 +8,7 @@
 *    Please see LICENSE file for your rights under this license.
 */
 
-require 'scripts/pi-hole/php/header_authenticated.ph';
+require 'scripts/pi-hole/php/header_authenticated.php';
 ?>
 
 <!-- Title -->
@@ -17,6 +17,7 @@ require 'scripts/pi-hole/php/header_authenticated.ph';
     <small>On this page, you can add domain/IP associations</small>
 </div>
 
+<!-- TESTING COMMENT -->
 <!-- Domain Input -->
 <div class="row">
     <div class="col-md-12">

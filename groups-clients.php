@@ -16,6 +16,7 @@ require 'scripts/pi-hole/php/header_authenticated.php';
     <h1>Client group management</h1>
 </div>
 
+
 <!-- Domain Input -->
 <div class="row">
     <div class="col-md-12">
